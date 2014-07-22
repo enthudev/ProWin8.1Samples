@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Ch05/GridView/bin/Debug
+/Ch05/GridView/obj/Debug
+*.suo
+/Ch02/App1/bin/Debug
